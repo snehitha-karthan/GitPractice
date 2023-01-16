@@ -15,4 +15,12 @@ git index status
 git index status
 git index status
 git index status
-git index statusgit index status
+git index status
+
+git index status
+git index status
+git index status
+git index status
+
+
+
